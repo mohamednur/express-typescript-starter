@@ -1,0 +1,26 @@
+{
+  "name": "expres",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=test ts-node-dev --respawn --transpile-only src/index.ts"
+  },
+  "author": "abir",
+  "license": "MIT",
+  "dependencies": {
+    "@types/config": "3.3.0",
+    "@types/express": "4.17.15",
+    "@types/morgan": "1.9.3",
+    "@types/node": "18.11.17",
+    "config": "3.3.8",
+    "cross-env": "7.0.3",
+    "dotenv": "16.0.3",
+    "express": "4.18.2",
+    "morgan": "1.10.0",
+    "ts-node-dev": "2.0.0",
+    "typescript": "4.9.4",
+    "winston": "3.8.2",
+    "winston-daily-rotate-file": "4.7.1"
+  }
+}

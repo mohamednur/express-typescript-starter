@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/sandbox/src/logs/debug/.7ef45fef899e890e9bf217819f074182c9b9d0a5-audit.json",
+    "files": [
+        {
+            "date": 1671977671712,
+            "name": "/sandbox/src/logs/debug/2022-12-25.log",
+            "hash": "af564c6daacb541b4128bb40cfaed3f988f85e4bb470256c9ea1f683006e75ee"
+        }
+    ],
+    "hashType": "sha256"
+}
